@@ -1,0 +1,11 @@
+c:\users\dylan\documents\visual studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\bin\Debug\WinDroid Universal HTC Toolkit.exe.config
+c:\users\dylan\documents\visual studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\obj\Debug\WinDroid Universal HTC Toolkit.csprojResolveAssemblyReference.cache
+c:\users\dylan\documents\visual studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\obj\Debug\MainWindow.baml
+c:\users\dylan\documents\visual studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\obj\Debug\Resources\Icons.baml
+c:\users\dylan\documents\visual studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\obj\Debug\MainWindow.g.cs
+c:\users\dylan\documents\visual studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\obj\Debug\Resources\Icons.g.cs
+c:\users\dylan\documents\visual studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\obj\Debug\App.g.cs
+c:\users\dylan\documents\visual studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\obj\Debug\WinDroid Universal HTC Toolkit_MarkupCompile.cache
+c:\users\dylan\documents\visual studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\obj\Debug\WinDroid Universal HTC Toolkit.g.resources
+c:\users\dylan\documents\visual studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\obj\Debug\WinDroid_Universal_HTC_Toolkit.Properties.Resources.resources
+c:\users\dylan\documents\visual studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\obj\Debug\WinDroid Universal HTC Toolkit.csproj.GenerateResource.Cache

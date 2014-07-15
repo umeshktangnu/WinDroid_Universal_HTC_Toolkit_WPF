@@ -1,0 +1,81 @@
+﻿<Controls:MetroWindow x:Name="MainForm" x:Class="WinDroid_Universal_HTC_Toolkit.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="WinDroid HTC Toolkit" Loaded="Window_Loaded" Height="240" Width="332" SizeToContent="WidthAndHeight" ShowMinButton="False" ShowMaxRestoreButton="False" TitleCaps="False" ResizeMode="CanMinimize">
+    <Grid>
+        <TabControl HorizontalAlignment="Left" Height="180" VerticalAlignment="Top" Width="326">
+            <TabItem Header="Setup" BorderBrush="Red" Height="41" Margin="0,0,-0.073,0" VerticalAlignment="Top">
+                <Grid Background="White" Margin="0,0,-1,-0.473">
+                    <GroupBox Header="1. Unlock Bootloader" HorizontalAlignment="Left" Margin="7,0,0,0" VerticalAlignment="Top" Height="130" Width="153">
+                        <Grid HorizontalAlignment="Left" Height="120" VerticalAlignment="Top" Width="153" Margin="-6,-23,-6,-6">
+                            <Button Name="GetSuperCIDButton" Content="Get SuperCID" HorizontalAlignment="Center" Margin="5,26,5,0" VerticalAlignment="Top" Width="138" Click="GetSuperCIDButton_Click"/>
+                            <Button Content="Get Token ID" HorizontalAlignment="Center" VerticalAlignment="Top" Width="138" Margin="5,56,5,0" Click="GetTokenIDButton"/>
+                            <Button Content="Unlock Bootloader" HorizontalAlignment="Center" Margin="5,86,5,0" VerticalAlignment="Top" Width="138" Click="UnlockBootloaderButton"/>
+                        </Grid>
+                    </GroupBox>
+                    <GroupBox Header="2. Flash Recovery" HorizontalAlignment="Left" Margin="165,0,0,0" VerticalAlignment="Top" Height="130" Width="153">
+                        <Grid HorizontalAlignment="Left" Height="161" VerticalAlignment="Top" Width="153" Margin="-6,-23,-6,-5">
+                            <ListBox HorizontalAlignment="Left" Height="80" Margin="10,26,0,0" VerticalAlignment="Top" Width="133"/>
+
+                        </Grid>
+                    </GroupBox>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Commands">
+                <Grid Background="White">
+                    <GroupBox Header="Flash" HorizontalAlignment="Left" Margin="7,0,0,0" VerticalAlignment="Top" Height="130" Width="153">
+                        <Grid HorizontalAlignment="Left" Height="120" VerticalAlignment="Top" Width="153" Margin="-6,-23,-6,-6">
+                            <Button Content="Flash ROM" HorizontalAlignment="Center" Margin="5,26,5,0" VerticalAlignment="Top" Width="138"/>
+                            <Button Content="Flash Kernel" HorizontalAlignment="Center" VerticalAlignment="Top" Width="138" Margin="5,56,5,0"/>
+                            <Button Content="Flash Recovery" HorizontalAlignment="Center" Margin="5,86,5,0" VerticalAlignment="Top" Width="138"/>
+                        </Grid>
+                    </GroupBox>
+                    <GroupBox Header="Commands" HorizontalAlignment="Left" Margin="165,0,0,0" VerticalAlignment="Top" Height="130" Width="153">
+                        <Grid HorizontalAlignment="Left" Height="120" VerticalAlignment="Top" Width="153" Margin="-6,-23,-6,-6">
+                            <Button Content="Push File" HorizontalAlignment="Center" Margin="5,26,5,0" VerticalAlignment="Top" Width="138"/>
+                            <Button Content="Install App" HorizontalAlignment="Center" VerticalAlignment="Top" Width="138" Margin="5,56,5,0"/>
+                            <Button Content="Relock Bootloader" HorizontalAlignment="Center" Margin="5,86,5,0" VerticalAlignment="Top" Width="138"/>
+                        </Grid>
+                    </GroupBox>
+                </Grid>
+            </TabItem>
+            <TabItem Header="About">
+                <Grid Background="White">
+                    <GroupBox Header="Info" HorizontalAlignment="Left" Margin="7,0,0,0" VerticalAlignment="Top" Height="130" Width="153">
+                        <Grid HorizontalAlignment="Left" Height="120" VerticalAlignment="Top" Width="153" Margin="-6,-23,-6,-6">
+                            <Button Content="Help" HorizontalAlignment="Center" Margin="5,26,5,0" VerticalAlignment="Top" Width="138"/>
+                            <Button Content="Requests" HorizontalAlignment="Center" VerticalAlignment="Top" Width="138" Margin="5,56,5,0"/>
+                            <Button Content="Donate" HorizontalAlignment="Center" Margin="5,86,5,0" VerticalAlignment="Top" Width="138"/>
+                        </Grid>
+                    </GroupBox>
+                    <GroupBox Header="Contact" HorizontalAlignment="Left" Margin="165,0,0,0" VerticalAlignment="Top" Height="130" Width="153">
+                        <Grid HorizontalAlignment="Left" Height="120" VerticalAlignment="Top" Width="153" Margin="-6,-23,-6,-6">
+                            <Button Content="XDA PM" HorizontalAlignment="Center" Margin="5,26,5,0" VerticalAlignment="Top" Width="138"/>
+                            <Button Content="Email" HorizontalAlignment="Center" VerticalAlignment="Top" Width="138" Margin="5,56,5,0"/>
+                            <Button Content="Twitter" HorizontalAlignment="Center" Margin="5,86,5,0" VerticalAlignment="Top" Width="138"/>
+                        </Grid>
+                    </GroupBox>
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <GridSplitter HorizontalAlignment="Left" Height="5" Margin="9,180,-313,0" VerticalAlignment="Top" Width="312"/>
+        <TextBox Name="DeviceTextBox" HorizontalAlignment="Left" Height="21" TextWrapping="Wrap" Text="Device:" VerticalAlignment="Top" Width="110" Margin="5,185,0,0" BorderThickness="0" FontWeight="Bold"/>
+
+    </Grid>
+
+    <Controls:MetroWindow.RightWindowCommands>
+        <Controls:WindowCommands>
+            <Button Content="Phone" />
+        </Controls:WindowCommands>
+    </Controls:MetroWindow.RightWindowCommands>
+
+    <Controls:MetroWindow.Flyouts>
+        <Controls:FlyoutsControl>
+            <Controls:Flyout Name="PhoneFlyout" Header="Flyout" Position="Top" Width="332">
+            </Controls:Flyout>
+        </Controls:FlyoutsControl>
+    </Controls:MetroWindow.Flyouts>
+
+
+</Controls:MetroWindow>

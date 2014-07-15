@@ -1,0 +1,22 @@
+c:\users\dylan\documents\visual studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\bin\Release\WinDroid Universal HTC Toolkit.exe.config
+c:\users\dylan\documents\visual studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\obj\Release\MainWindow.baml
+c:\users\dylan\documents\visual studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\obj\Release\MainWindow.g.cs
+c:\users\dylan\documents\visual studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\obj\Release\App.g.cs
+c:\users\dylan\documents\visual studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\obj\Release\WinDroid Universal HTC Toolkit_MarkupCompile.cache
+c:\users\dylan\documents\visual studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\obj\Release\WinDroid Universal HTC Toolkit.g.resources
+c:\users\dylan\documents\visual studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\obj\Release\WinDroid_Universal_HTC_Toolkit.Properties.Resources.resources
+c:\users\dylan\documents\visual studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\obj\Release\WinDroid Universal HTC Toolkit.csproj.GenerateResource.Cache
+c:\users\dylan\documents\visual studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\bin\Release\WinDroid Universal HTC Toolkit.exe
+c:\users\dylan\documents\visual studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\bin\Release\WinDroid Universal HTC Toolkit.pdb
+c:\users\dylan\documents\visual studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\bin\Release\MahApps.Metro.dll
+c:\users\dylan\documents\visual studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\bin\Release\System.Windows.Interactivity.dll
+c:\users\dylan\documents\visual studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\bin\Release\MahApps.Metro.xml
+c:\users\dylan\documents\visual studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\obj\Release\WinDroid Universal HTC Toolkit.exe
+c:\users\dylan\documents\visual studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\obj\Release\WinDroid Universal HTC Toolkit.pdb
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\obj\Release\WinDroid Universal HTC Toolkit.csprojResolveAssemblyReference.cache
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\obj\Release\App.baml
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\bin\Release\AndroidLib.dll
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\bin\Release\AndroidLib.pdb
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\bin\Release\AndroidLib.xml
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\obj\Release\Resources\Icons.baml
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\WinDroid Universal HTC Toolkit\WinDroid Universal HTC Toolkit\obj\Release\Resources\Icons.g.cs
